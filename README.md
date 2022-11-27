@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Imam.
--    I’m mainly interested in Data Analytics.
--    I’m currently learning AI & ML
--    I’m looking to collaborate on ...
+-    I’m mainly interested to work in API Integration, AI/ML based project specially Computer Vision projects. 
 -    Please reach me shaowngp@outlook.com
 
 <!---
