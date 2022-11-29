@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Imam.
--    I’m mainly interested to work in API Integration, AI/ML based project specially Computer Vision projects. 
+-    I mainly  want to skillup my self in AI/ML through hands-on projects  specially in Computer Vision domain. 
 -    Please reach me shaowngp@outlook.com
 
 <!---
