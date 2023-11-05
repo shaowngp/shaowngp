@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Imam.
 -    I mainly  want to skillup my self in AI/ML through hands-on projects  specially in Computer Vision domain. 
--    Please reach me shaowngp@outlook.com
+-    Please reach me out @ shaowngp@outlook.com or @ imam46@gmail.com
 
 <!---
 shaowngp/shaowngp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
